@@ -1,0 +1,3 @@
+# WebserviceProject
+我的第一个repository，功能是调用天气预报接口查询天气
+ps功能很简单，思路来自网上，主要是借此熟悉下GitHub的功能
